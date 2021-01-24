@@ -1,0 +1,26 @@
+syntax: glob
+*.iml
+target/*
+logs
+runner
+.allure
+.idea/*
+.classpath
+.project
+.settings/*
+*.orig
+*ipr
+*iws
+nbproject
+.csscomb.json
+out
+changelog-helper/log/*
+node
+node_modules
+**/bundle.js
+**/bundle.css
+pom.xml.releaseBackup
+release.properties
+install.bat
+/*/target/
+allure-results
